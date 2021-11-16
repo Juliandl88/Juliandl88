@@ -4,7 +4,7 @@
 
 Apasionado por la tecnología y la programación, en busca de iniciarme en el sector IT donde pueda poner en práctica mis conocimientosy experiencia para realizar proyectos de calidad, mejorando mis habilidades como desarrollador
 
-Habilidades: JAVA / SQL / REACT / JS / HTML / CSS
+Habilidades: JS / HTML / CSS / NODE / EXPRESS / REACT / SQL
 
 <br/>
 
